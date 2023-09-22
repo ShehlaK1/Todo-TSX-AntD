@@ -1,0 +1,53 @@
+.input-box {
+    width: 88%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    height: 86px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+
+
+.addTodoBtn:hover{
+  opacity: 0.7;
+  /* box-shadow: 50px 50px 50px 50px yellow; */
+}
+.add-todo {
+  background-color: #670ab7;
+  margin: 33px;
+    border-radius: 12px;
+    padding: 11 20px;
+    margin: 0px 62px -9px 58px
+}
+
+.input-label {
+  font-family: verdana;
+  color: white;
+  margin: 10px 0px 10px 0px;
+}
+
+input-box {
+  background-color: #27005D;
+  padding: 22px 20px;
+  margin: 13px 0;
+  box-sizing: border-box;
+  border: 2px solid darkred;
+  opacity: 1;
+}
+
+input-box :hover {
+  opacity: 0.7
+
+
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #670ab7;
+  border-radius: 10px
+}
